@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Santosh
 
-<!--
-**sranganatha/sranganatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer focused on enterprise AI systems, cloud platforms,
+security, observability, and infrastructure automation.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Governed agentic workflows and MCP tool integration
+- AI evaluation, reliability, and failure recovery
+- AWS, Kubernetes, and secure cloud delivery
+- Local-first, reproducible engineering systems
+
+## Core technologies
+
+Python · JavaScript / TypeScript · Java · FastAPI · AWS · Kubernetes · Docker · Podman · 
+Terraform · OpenTofu · GitHub Actions · Pulumi · Helm · OpenTelemetry
+
+## Certifications
+
+- AWS Certified Solutions Architect – Professional
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Security – Specialty
+- ISC2 Certified in Cybersecurity
+
+[LinkedIn](https://www.linkedin.com/in/santoshranganatha/)
