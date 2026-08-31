@@ -10,6 +10,12 @@ security, observability, and infrastructure automation.
 - AWS, Kubernetes, and secure cloud delivery
 - Local-first, reproducible engineering systems
 
+## Projects
+
+### MCP Safety Control Plane — In development
+Governed MCP tool discovery and invocation with authorization,
+one-time approval, schema validation, and auditable decisions.
+
 ## Core technologies
 
 Python · JavaScript / TypeScript · Java · FastAPI · AWS · Kubernetes · Docker · Podman · 
