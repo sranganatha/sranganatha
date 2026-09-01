@@ -12,7 +12,7 @@ security, observability, and infrastructure automation.
 
 ## Projects
 
-### MCP Safety Control Plane — In development
+### MCP Safety Control Plane - [Project Link](https://github.com/sranganatha/mcp-safety-control-plane)
 Governed MCP tool discovery and invocation with authorization,
 one-time approval, schema validation, and auditable decisions.
 
