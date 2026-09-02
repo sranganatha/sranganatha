@@ -16,6 +16,10 @@ security, observability, and infrastructure automation.
 Governed MCP tool discovery and invocation with authorization,
 one-time approval, schema validation, and auditable decisions.
 
+### Agent FailureBench - In development
+Deterministic fault-injection framework for testing checkpoint recovery,
+bounded retries, reconciliation, and duplicate side-effect prevention.
+
 ## Core technologies
 
 Python · JavaScript / TypeScript · Java · FastAPI · AWS · Kubernetes · Docker · Podman · 
