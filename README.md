@@ -20,6 +20,9 @@ one-time approval, schema validation, and auditable decisions.
 Deterministic fault-injection framework for testing checkpoint recovery,
 bounded retries, reconciliation, and duplicate side-effect prevention.
 
+### Runbook RAG Review - In Development
+A citation-and-abstention evaluation of Knowledge Base answers over versioned runbooks.
+
 ## Core technologies
 
 Python · JavaScript / TypeScript · Java · FastAPI · AWS · Kubernetes · Docker · Podman · 
