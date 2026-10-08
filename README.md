@@ -20,7 +20,7 @@ one-time approval, schema validation, and auditable decisions.
 Deterministic fault-injection framework for testing checkpoint recovery,
 bounded retries, reconciliation, and duplicate side-effect prevention.
 
-### Runbook RAG Review - In Development
+### Runbook RAG Review - [Project Link](https://github.com/sranganatha/runbook-rag-review)
 A citation-and-abstention evaluation of Knowledge Base answers over versioned runbooks.
 
 ## Core technologies
