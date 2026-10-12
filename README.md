@@ -23,7 +23,7 @@ bounded retries, reconciliation, and duplicate side-effect prevention.
 ### Runbook RAG Review - [Project Link](https://github.com/sranganatha/runbook-rag-review)
 A citation-and-abstention evaluation of Knowledge Base answers over versioned runbooks.
 
-### AgentCore Broker Safety Lab - In Progress
+### AgentCore Broker Safety Lab - [Project Link](https://github.com/sranganatha/agentcore-broker-safety-lab)
 A policy-controlled agent broker that turns operational evidence into approved, retry-safe actions.
 
 ## Core technologies
