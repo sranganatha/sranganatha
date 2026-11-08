@@ -26,6 +26,10 @@ A citation-and-abstention evaluation of Knowledge Base answers over versioned ru
 ### AgentCore Broker Safety Lab - [Project Link](https://github.com/sranganatha/agentcore-broker-safety-lab)
 A policy-controlled agent broker that turns operational evidence into approved, retry-safe actions.
 
+### Conversational Analytics Agent - [Project Link](https://github.com/sranganatha/conversational-analytics-agent)
+A bounded conversational analytics agent combining versioned procedure retrieval and 
+exact metric queries, with explicit conversation state, scoped tools, and Ragas evaluation.
+
 ## Core technologies
 
 Python · JavaScript / TypeScript · Java · FastAPI · AWS · Kubernetes · Docker · Podman · 
